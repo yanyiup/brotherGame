@@ -1,6 +1,6 @@
 module brotherGame
 
-go 1.15
+go 1.16
 
 require (
 	fyne.io/fyne v1.3.3
